@@ -784,6 +784,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. James Colliander (2i2c.org Co-Founder, Callysto.ca Co-Founder, Syzygy.ca Co-Founder, PIMS Director)
 1. James Daly
 1. James 'jspc' Condron
+1. James D. Forrester
 1. James Kruth
 1. James Renken
 1. James Seconde
