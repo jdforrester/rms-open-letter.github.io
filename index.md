@@ -75,7 +75,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Abhishek Veeramalla
 1. Abigail Brady (former GNOME developer)
 1. Abigail Cabunoc Mayes
-1. Achraf Belkahla (@bkmd100)
 1. Adam Barber
 1. Adam Čalovka
 1. Adam Fisk (Brave New Software Project, Inc)
@@ -213,7 +212,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Arno Fleming (Community organiser)
 1. Artemis Tosini (NixOS contributor)
 1. Arthur Richards
-1. Arturs Dobrecovs
 1. Artur Tamborski (former FSF member)
 1. Ashish Dixit
 1. Asta Halkjær From
@@ -316,7 +314,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Calub Veim (CollabVM)
 1. Calvin Spealman (@ironfroggy, Red Hat Inc.)
 1. Calvin W. Metcalf
-1. Camden Mecklem
 1. Cameron Cash (PizzaLovingNerd)
 1. Cameron Durham
 1. Cameron Tauxe
@@ -340,14 +337,12 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Casper Sørensen
 1. Cas Rusnov (free software contributor, former Debian developer)
 1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
-1. Celeste Horgan
 1. Cathy Warner
 1. Chad Booker
 1. Chandan Kumar (raukadah)
 1. Chandler Carruth
 1. Charles A. Anaman
 1. Charles Burton
-1. Charles C. Earl (Automattic)
 1. Charlie Kravetz
 1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
 1. Chen Chang
@@ -477,7 +472,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dario Ninicato
 1. Davanum Srinivas (TOC, CNCF; Steering, Kubernetes)
 1. Dave Camp (Mozilla, Former GNOME Foundation)
-1. Dave F. Kleinschmidt
 1. David A. Symons
 1. David Burns (Selenium contributor, former Mozilla)
 1. David Cantrell (Fedora developer)
@@ -534,7 +528,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Dmitry Porunov
 1. dmt
 1. Dominic Hayes (The Feren OS Developer)
-1. Dom Rodriguez (shymega)
 1. Donald Harper (duckunix)
 1. Don Goodman-Wilson (Founding Member and resident ethicist, Organization for Ethical Source)
 1. Donnie Barnes (former Red Hat employee #2)
@@ -579,7 +572,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Emma Best (Distributed Denial of Secrets)
 1. Emmanuele Bassi (GNOME Foundation)
 1. Emmanuel Large
-1. Emma Vargas (@4PERTURE on GitHub)
 1. Enio Gemmo (LibreItalia Chairman)
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs
@@ -628,7 +620,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Felipe Borges (GNOME Foundation Board member)
 1. Félix 'felix91gr' Fischer
 1. Felix 'fleaz' Breidenstein
-1. Felix Fontein
 1. Félix 'passcod' Saparelli
 1. Felix 'thegoliath' Golatofski
 1. F / erbridge
@@ -711,7 +702,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gunnar Monell
 1. Gunnar Wolf (Debian Developer, member of the Debian Technical Committee)
 1. Gürkan Gür
-1. Gus Caplan (OpenJS Foundation)
 1. Gustaf Lindstedt
 1. Gustavo Costa (Fedora Project contributor)
 1. Gustavo Gus (Tor Project)
@@ -740,7 +730,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Helen Larson
 1. Henrik Grimler
 1. Henri Sivonen
-1. Henry Catalini Smith
 1. Henry F (Techlore, Owner)
 1. Herman Ho (Collabora)
 1. Hexandcube
@@ -750,7 +739,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Holger Levsen (Debian Developer, reproducible-builds.org)
 1. Honza Král
 1. Horst Gutmann
-1. Hrishikesh Barman
 1. Hubert Figuière
 1. Hypolite Petovan (Friendica Developer)
 1. Iain Nicol
@@ -838,7 +826,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jeff Forcier (aka bitprophet) (Python library maintainer, eg Fabric, Paramiko)
 1. Jeff Fortin T. (former president of the GNOME Foundation)
 1. Jeffrey Blinksma (Co-founder of Robin's Media Team)
-1. Jeffrey Sica (Kubernetes SIG-UI Chair)
 1. Jeffrey Strauss
 1. Jeffrey Yasskin
 1. Jeffrey Yoo Warren
@@ -893,7 +880,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Johanna Dorothea Reichmann
 1. Johannes Löthberg (Arch Linux Developer)
 1. John Bond
-1. John Burnett (@johnburnett on GitHub)
 1. John D. Martin III
 1. John F Lieske
 1. John Flynn
@@ -1023,7 +1009,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Kimball Johnson (Former Chair FLOSS UK aka UKUUG)
 1. Kiran Jonnalagadda
 1. Kirstie Whitaker (Programme Lead for Tools, Practices and Systems, The Alan Turing Institute; Core contributor to The Turing Way project.)
-1. Konstantin Baranovskiy
 1. kpcyrd (Arch Linux, Debian, Reproducible Builds)
 1. Kris Buytaert
 1. Kristi Progri
@@ -1047,7 +1032,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Laura Smith
 1. Laurence Berland
 1. Laurin Schmidt
-1. Laurent Doguin
 1. Laurynas `NeLaurynas` K.
 1. Leah Lundqvist (leahlundqvist, V maintainer)
 1. Leandro A. F. Pereira
@@ -1063,7 +1047,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lina B (elatelation)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
-1. Linus A. Wozniak (@MadsRach)
 1. Linus Groh
 1. Linus Parker
 1. Lioncache
@@ -1072,7 +1055,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Liza Ainalen Dosso
 1. Liz Fong-Jones (OpenTelemetry governance committee member, linux/aarch64 advocate)
 1. Liz Rice (TOC chair, CNCF; OpenUK ambassador)
-1. Logan Kilpatrick (The Julia Language Community Manager)
 1. Lorena Mesa
 1. Lorenzo Gomez
 1. Louis Borsu
@@ -1117,7 +1099,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Madison `makyo` Scott-Clary
 1. Mads Johansen
 1. Magnus Krüger
-1. Magnus Frühling (Freifunk Frankfurt contributor, OpenWrt committer, Chaos Computer Club)
 1. Mairi Dulaney (Fedora Project contributor)
 1. Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 1. Malleck Braun
@@ -1164,7 +1145,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Martin Robinson (Igalia)
 1. Martin Splitt
 1. Martin Wimpress (Former FSF member)
-1. Martina Ferrari (Debian developer)
 1. Martyn Welch (Collabora)
 1. Mason Jones
 1. Mathieu Comandon (Lutris)
@@ -1438,7 +1418,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Renaud Lepage
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer, Open Source Diversity)
-1. Rhys Powell
 1. Ricardo Bánffy
 1. Ricardo Berlim Fonseca (Brasília, Brazil)
 1. Ricardo Salveti
@@ -1531,7 +1510,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sander Steffann (@sjmsteffann / sjms)
 1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
-1. Sandro Knauß (Debian, KDE)
 1. Santeri Kasvi
 1. Santiago Saavedra (former President, GPUL; Co-founder, IUVIA)
 1. Santiago Torres-Arias (Arch Linux, Purdue University, in-toto)
@@ -1617,7 +1595,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephen A. Goss
 1. Stephen O'Grady
 1. Step Schwarz
-1. Steve Axthelm
 1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
@@ -1648,7 +1625,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tanner Filip
 1. Tanvi Bhakta (Former EC member of Free Software Movement Karnataka, India)
 1. Taowa (Debian Developer, former LP keynote panelist)
-1. Teo Schulze
 1. Thaddée Tyl
 1. TheEssem
 1. TheEvilSkeleton
@@ -1730,11 +1706,9 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vincent Singer (aka cukmekerb)
 1. Vincent Wong
 1. Vincenzo Palazzo (@vincenzopalazzo)
-1. Vinicius Mignot (`@locao`)
 1. Vipul Gupta
 1. Vipul Siddharth (Fedora Project Contributor)
 1. Vitor "Krammer" Cardoso
-1. Vittorio Roberto Alfieri (`@rebtoor`, FSFE supporter, EFF member)
 1. Vivek Das Mohapatra (Collabora)
 1. Vivia Nikolaidou (GStreamer)
 1. Vivian Lim (Microsoft)
